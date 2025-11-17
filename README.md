@@ -7,7 +7,7 @@ Built with **Next.js**, **React**, and **TailwindCSS**.
 
 ## Demo
 
-> [🔗 Live Preview](diassemarvorebinaria.dev)
+> [Live Preview](www.diassemarvorebinaria.dev)
 
 ---
 
